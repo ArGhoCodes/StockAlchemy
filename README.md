@@ -6,7 +6,13 @@ LSTM-based Forecasting: Utilizes LSTM networks to capture temporal dependencies 
 Moving Average Analysis: Includes moving average calculations to help identify trends and potential buy/sell signals.
 Model Evaluation: Provides metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE) to evaluate model performance.
 Future Predictions: Predicts stock prices for the next 30 days based on historical data.
-Interactive Visualization: Visualizes stock prices, predictions, and performance metrics.
+Interactive Visualization: Visualizes stock prices, predictions, and performance metrics.  
+
+Here's a detailed video explanation on how StockAlchemy works:
+
+https://github.com/user-attachments/assets/31c9d664-fc14-4b2c-8641-7af7c5f9a009
+
+
 Installation
 To use StockAlchemy, clone this repository and install the required dependencies.
 
